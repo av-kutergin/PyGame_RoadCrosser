@@ -1,6 +1,5 @@
 import pygame
 
-# Size of the screen
 SCREEN_TITLE = 'Crossy RPG'
 SCREEN_WIDTH = 800
 SCREEN_HEIGHT = 800
